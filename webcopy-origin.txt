@@ -1,0 +1,340 @@
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Poppins:wght@400;500;600;700&display=swap
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLCz7V1s.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLCz7V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiByp8kv8JHgFVrLGT9V1s.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\poppins\v24\pxiByp8kv8JHgFVrLGT9V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v24/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\s\poppins\v24\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://posing-html.vercel.app/?storefront=envato-elements
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://posing-html.vercel.app/assets/css/plugins/animate.css
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\css\plugins\animate.css
+Content Type: text/css
+
+Uri: https://posing-html.vercel.app/assets/css/plugins/bootstrap.min.css
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\css\plugins\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://posing-html.vercel.app/assets/css/plugins/slick.css
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\css\plugins\slick.css
+Content Type: text/css
+
+Uri: https://posing-html.vercel.app/assets/css/style.css
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://posing-html.vercel.app/assets/img/about_img_1.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\about_img_1.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/about_img_2.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\about_img_2.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/avatar_1.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\avatar_1.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/avatar_2.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\avatar_2.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/avatar_3.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\avatar_3.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/avatar_4.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\avatar_4.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/avatar_5.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\avatar_5.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/avatar_6.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\avatar_6.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/client_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\client_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/client_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\client_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/client_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\client_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/client_4.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\client_4.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/client_5.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\client_5.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/client_6.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\client_6.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/drag.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\drag.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/facebook.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\facebook.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/faq_img.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\faq_img.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/favicon.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/hero_img.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\hero_img.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/icons/contact_icon_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\contact_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/contact_icon_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\contact_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/contact_icon_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\contact_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/funfact_icon_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\funfact_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/funfact_icon_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\funfact_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/funfact_icon_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\funfact_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/funfact_icon_4.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\funfact_icon_4.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_10.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_10.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_4.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_4.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_5.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_5.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_6.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_6.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_7.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_7.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_8.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_8.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/icon_box_9.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\icon_box_9.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/pricing_icon_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\pricing_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/pricing_icon_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\pricing_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/pricing_icon_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\pricing_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/retail_icon_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\retail_icon_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/retail_icon_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\retail_icon_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/retail_icon_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\retail_icon_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/retail_icon_4.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\retail_icon_4.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/retail_icon_5.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\retail_icon_5.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/retail_icon_6.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\retail_icon_6.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/stars.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\stars.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/tick.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\tick.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/icons/tick_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\icons\tick_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/instagram.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\instagram.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/logo.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\logo.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/logo_footer.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\logo_footer.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/logo_mini.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\logo_mini.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/post_details_1.jpeg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\post_details_1.jpeg
+Content Type: image/jpeg
+
+Uri: https://posing-html.vercel.app/assets/img/post_details_2.jpeg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\post_details_2.jpeg
+Content Type: image/jpeg
+
+Uri: https://posing-html.vercel.app/assets/img/post_details_3.jpeg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\post_details_3.jpeg
+Content Type: image/jpeg
+
+Uri: https://posing-html.vercel.app/assets/img/post_details_4.jpeg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\post_details_4.jpeg
+Content Type: image/jpeg
+
+Uri: https://posing-html.vercel.app/assets/img/retail-store.png
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\retail-store.png
+Content Type: image/png
+
+Uri: https://posing-html.vercel.app/assets/img/shape/shape_1.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\shape\shape_1.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/shape/shape_2.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\shape\shape_2.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/shape/shape_3.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\shape\shape_3.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/shape/shape_4.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\shape\shape_4.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/shape/shape_5.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\shape\shape_5.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/shape/shape_6.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\shape\shape_6.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/img/twitter.svg
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\img\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://posing-html.vercel.app/assets/js/main.js
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://posing-html.vercel.app/assets/js/plugins/jquery-3.6.0.min.js
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\js\plugins\jquery-3.6.0.min.js
+Content Type: application/javascript
+
+Uri: https://posing-html.vercel.app/assets/js/plugins/jquery.counter.min.js
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\js\plugins\jquery.counter.min.js
+Content Type: application/javascript
+
+Uri: https://posing-html.vercel.app/assets/js/plugins/jquery.slick.min.js
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\js\plugins\jquery.slick.min.js
+Content Type: application/javascript
+
+Uri: https://posing-html.vercel.app/assets/js/plugins/wow.min.js
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\assets\js\plugins\wow.min.js
+Content Type: application/javascript
+
+Uri: https://posing-html.vercel.app/index.html
+File Name: C:\Users\Abdul Sammad\Downloads\Website_Deploy\posing-html.vercel.app\index.html
+Content Type: text/html
+
