@@ -20,6 +20,8 @@
   | 7. Counter Animation
   | 8. Review
   | 9. Modal Video
+  | 10. Toast Notifications
+  | 11. Form Validation & Submission
   |
   */
 
@@ -82,7 +84,7 @@
       $(this).toggleClass("active").siblings("ul").slideToggle();
       $(this).parent().toggleClass("active");
     });
-    $('.cs-smoth_scroll').on('click', function(){
+    $('.cs-smoth_scroll').on('click', function () {
       $('.cs-munu_toggle').removeClass('cs-toggle_active').siblings(".cs-nav_list").slideToggle();
     })
   }
@@ -267,7 +269,7 @@
     8. Review
   --------------------------------------------------------------*/
   function review() {
-    $('.cs-review').each(function() {
+    $('.cs-review').each(function () {
       var review = $(this).data('review');
       var reviewVal = (review * 20) + "%";
       $(this).find('.cs-review_in').css('width', reviewVal);
@@ -278,15 +280,177 @@
     9. Modal Video
   --------------------------------------------------------------*/
   function modal() {
-    $(".cs-modal_btn").on('click', function() {
-      var modalData = $(this).attr("data-modal") 
+    $(".cs-modal_btn").on('click', function () {
+      var modalData = $(this).attr("data-modal")
       $(`[data-modal='${modalData}']`).addClass('active')
       $(this).parents('.cs-modal').removeClass('active')
     })
-    $(".cs-close_modal, .cs-close_overlay").on('click', function() {
-      var modalData = $(this).parents('.cs-modal').attr("data-modal") 
+    $(".cs-close_modal, .cs-close_overlay").on('click', function () {
+      var modalData = $(this).parents('.cs-modal').attr("data-modal")
       $(`[data-modal='${modalData}']`).removeClass('active')
     })
   }
+
+  /*--------------------------------------------------------------
+    10. Toast Notifications
+  --------------------------------------------------------------*/
+  function showToast(message, type) {
+    // Remove any existing toast
+    $('.cs-toast').remove();
+
+    var icon = type === 'success' ? '✅' : '❌';
+    var toast = $(
+      '<div class="cs-toast cs-toast-' + type + '">' +
+      '<span class="cs-toast-icon">' + icon + '</span>' +
+      '<span class="cs-toast-msg">' + message + '</span>' +
+      '<button class="cs-toast-close" aria-label="Close">×</button>' +
+      '</div>'
+    );
+
+    $('body').append(toast);
+
+    // Trigger show
+    setTimeout(function () {
+      toast.addClass('cs-toast-show');
+    }, 10);
+
+    // Auto-dismiss after 4.5s
+    var dismissTimer = setTimeout(function () {
+      dismissToast(toast);
+    }, 4500);
+
+    // Manual close
+    toast.find('.cs-toast-close').on('click', function () {
+      clearTimeout(dismissTimer);
+      dismissToast(toast);
+    });
+  }
+
+  function dismissToast(toast) {
+    toast.removeClass('cs-toast-show');
+    setTimeout(function () { toast.remove(); }, 400);
+  }
+
+  /*--------------------------------------------------------------
+    11. Form Validation & Submission
+  --------------------------------------------------------------*/
+  function validateField($field) {
+    var val = $field.val().trim();
+    var placeholder = ($field.attr('placeholder') || '').toLowerCase();
+    var ok = false;
+
+    if (placeholder.indexOf('email') !== -1) {
+      ok = /^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(val);
+    } else {
+      ok = val.length > 0;
+    }
+
+    $field.toggleClass('cs-field-error', !ok).toggleClass('cs-field-success', ok);
+    return ok;
+  }
+
+  function handleFormSubmit($form) {
+    var $fields = $form.find('.cs-form_field');
+    var $submitBtn = $form.find('button[type="submit"], button.cs-btn').first();
+    var valid = true;
+
+    // Clear previous states
+    $fields.removeClass('cs-field-error cs-field-success');
+
+    // Validate each field
+    $fields.each(function () {
+      if (!validateField($(this))) {
+        valid = false;
+      }
+    });
+
+    if (!valid) {
+      // Determine language
+      var isSpanish = window.location.pathname.indexOf('/es') !== -1 ||
+        window.location.href.indexOf('es.html') !== -1;
+      var errMsg = isSpanish
+        ? 'Por favor completa todos los campos obligatorios correctamente.'
+        : 'Please fill in all required fields correctly.';
+
+      showToast(errMsg, 'error');
+
+      // Scroll to first error
+      var $firstError = $form.find('.cs-field-error').first();
+      if ($firstError.length) {
+        $('body,html').animate({ scrollTop: $firstError.offset().top - 120 }, 400);
+        $firstError.focus();
+      }
+      return;
+    }
+
+    // Show loading state
+    var originalHtml = $submitBtn.html();
+    $submitBtn.addClass('cs-form_loading').html('<span>Sending…</span>');
+
+    // ----------------------------------------------------------------
+    // Replace the simulation below with a real $.ajax() call:
+    //
+    // $.ajax({
+    //   url: '/api/contact',           // <-- your endpoint
+    //   method: 'POST',
+    //   contentType: 'application/json',
+    //   data: JSON.stringify(formData),
+    //   success: function () { /* show success toast */ },
+    //   error:   function () { /* show error toast  */ }
+    // });
+    // ----------------------------------------------------------------
+
+    setTimeout(function () {
+      $submitBtn.removeClass('cs-form_loading').html(originalHtml);
+      $fields.val('').removeClass('cs-field-error cs-field-success');
+
+      var isSpanish = window.location.pathname.indexOf('/es') !== -1 ||
+        window.location.href.indexOf('es.html') !== -1;
+
+      var successMsg = isSpanish
+        ? '¡Mensaje enviado con éxito! Nos pondremos en contacto pronto.'
+        : 'Message sent successfully! We\'ll be in touch soon.';
+
+      showToast(successMsg, 'success');
+
+      // Close modal if form is inside one
+      var $parentModal = $form.closest('.cs-modal');
+      if ($parentModal.length) {
+        var modalData = $parentModal.attr('data-modal');
+        setTimeout(function () {
+          $('[data-modal="' + modalData + '"]').removeClass('active');
+        }, 1600);
+      }
+    }, 1200);
+  }
+
+  // Attach submit handlers when DOM is ready
+  $(function () {
+    // Intercept form submit
+    $(document).on('submit', 'form', function (e) {
+      var $form = $(this);
+      if ($form.find('.cs-form_field').length > 0) {
+        e.preventDefault();
+        handleFormSubmit($form);
+      }
+    });
+
+    // Also handle cs-btn clicks inside forms (some buttons lack type="submit")
+    $(document).on('click', 'form button.cs-btn', function (e) {
+      var $form = $(this).closest('form');
+      if ($form.length && $form.find('.cs-form_field').length > 0) {
+        e.preventDefault();
+        handleFormSubmit($form);
+      }
+    });
+
+    // Live validation on blur
+    $(document).on('blur', 'form .cs-form_field', function () {
+      var val = $(this).val().trim();
+      if (val.length > 0) {
+        validateField($(this));
+      }
+    });
+  });
 
 })(jQuery); // End of use strict
